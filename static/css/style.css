@@ -1,0 +1,10 @@
+body{
+    background-color: cyan;
+}
+
+.ImagemInicio{
+    margin-left: 20%;
+    height: 40%;
+    width: 40%;
+    position: relative;
+}
